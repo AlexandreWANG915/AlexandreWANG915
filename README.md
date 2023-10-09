@@ -1,6 +1,7 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreWANG915&show_icons=true&&theme=tokyonight" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreWANG915&size_weight=0.5&count_weight=0.5)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AlexandreWANG915&show_icons=true&&theme=tokyonight" />
+
 <!--
 **AlexandreWANG915/AlexandreWANG915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
